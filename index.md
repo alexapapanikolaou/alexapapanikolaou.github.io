@@ -4,6 +4,9 @@ This is a page for assignments in the Earth Data Analytics program at CU Boulder
 This is my dog, Meli!
 ![This is my dog, Meli!](/img/Meli_Lander_1.JPG "my dog") 
 
+Bio: Alexa works in Venture Development with the Venture Partners team at CU Boulder. She has  experience supporting university-based entrepreneurship, research commercialization and venture development, combined with a background in social and environmental impact assessment. Alexa is passionate about supporting innovation for impact, and her personal projects have spanned public transit equity research, community food sovereignty, agriculture tech, sustainable fashion tech and product lifecycle sustainability. Before joining CU Boulder, she earned her Bachelors from Vanderbilt University where she also worked at the Innovation Center, supporting regional entrepreneurial ecosystem development and led the annual Mid-South Innovation Summit, bringing together investors, founders and industry partners.
+
+
 ##### Contact Information
 * Email address: alexa.papanikolaou@colorado.edu
 * [Github Profile](https://github.com/alexapapanikolaou)
