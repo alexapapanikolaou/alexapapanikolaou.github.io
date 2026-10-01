@@ -35,9 +35,6 @@ This is a picture of the Cuyahoga Valley National Park.
 ## Temperature Data Project <br>
 [View the full rendered html notebook here.](portfolio_posts/06-nashville-notebook.html)<br>
 <br>
-| **Nashville Temperature Interactive Plot** | **Nashville Temperature Trendline Plot** |
-| :---: | :---: |
-| <embed type="text/html" src="img/nashville_annual_temp_interactive.html" width="400" height="300"> | <img src="img/nashville_temperature_trend.jpeg" alt="Nashville Temperature Trendline Plot" width="400"> |
 
 **Nashville Temperature Interactive Plot** <br>
 <br>
