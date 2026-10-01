@@ -54,8 +54,8 @@ Since 2000, Tennessee has received 33 major disaster declarations involving seve
 
 **Bibliography**
 <br>
-* Runkle, J., K.E. Kunkel, D.R. Easterling, L.E. Stevens, B.C. Stewart, R. Frankson, L. Romolo, J. Nielsen-Gammon, T.A. Joyner, W. Tollefson. (2022). Tennessee State Climate Summary 2022. NOAA Technical Report NESDIS 150-TN. NOAA/NESDIS. https://statesummaries.ncics.org/chapter/tn/
+* Runkle, J., K.E. Kunkel, D.R. Easterling, L.E. Stevens, B.C. Stewart, R. Frankson, L. Romolo, J. Nielsen-Gammon, T.A. Joyner, W. Tollefson. (2022). Tennessee State Climate Summary 2022. NOAA Technical Report NESDIS 150-TN. NOAA/NESDIS. [https://statesummaries.ncics.org/chapter/tn/](https://statesummaries.ncics.org/chapter/tn/)
 
-* Soliman, R. (2026, January 26). Why Winter Storm Fern actually proves climate change is real—not a hoax. Science Times. https://www.sciencetimes.com/articles/61201/20260126/why-winter-storm-fern-actually-provesclimate-change-realnot-hoax.htm
+* Soliman, R. (2026, January 26). Why Winter Storm Fern actually proves climate change is real—not a hoax. Science Times. [https://www.sciencetimes.com/articles/61201/20260126/why-winter-storm-fern-actually-provesclimate-change-realnot-hoax.htm](https://www.sciencetimes.com/articles/61201/20260126/why-winter-storm-fern-actually-provesclimate-change-realnot-hoax.htm)
 
-* Turner, L., Wuot, P. G., & Marshall, A. (2026, February 20). Winter storm week 2: Challenges linger and some school districts remain closed. WPLN News. https://wpln.org/post/storm-updates-ice-power-water-challenges-linger-after-a-week-as-deaths-climb-and-frustrations-rise/
+* Turner, L., Wuot, P. G., & Marshall, A. (2026, February 20). Winter storm week 2: Challenges linger and some school districts remain closed. WPLN News. [https://wpln.org/post/storm-updates-ice-power-water-challenges-linger-after-a-week-as-deaths-climb-and-frustrations-rise/](https://wpln.org/post/storm-updates-ice-power-water-challenges-linger-after-a-week-as-deaths-climb-and-frustrations-rise/)
