@@ -38,7 +38,7 @@ This is a picture of the Cuyahoga Valley National Park.
 
 **Nashville Temperature Interactive Plot** <br>
 <br>
-<embed type="text/html" src="img/nashville_annual_temp_interactive.html" width="600" height="600">
+<embed type="text/html" src="img/nashville_annual_temp_interactive.html" width="500" height="300">
 
 **Nashville Temperature Trendline Plot** <br>
 <br>
