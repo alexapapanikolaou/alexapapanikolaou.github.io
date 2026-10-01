@@ -1,4 +1,4 @@
-### Alexa Papanikolaou 
+# Alexa Papanikolaou 
 This is a page for assignments in the Earth Data Analytics program at CU Boulder
 
 This is my dog, Meli!
@@ -8,12 +8,12 @@ This is my dog, Meli!
 
 **Bio:** Alexa works in Venture Development with the Venture Partners team at CU Boulder. She has  experience supporting university-based entrepreneurship, research commercialization and venture development, combined with a background in social and environmental impact assessment. Alexa is passionate about supporting innovation for impact, and her personal projects have spanned public transit equity research, community food sovereignty, agriculture tech, sustainable fashion tech and product lifecycle sustainability. Before joining CU Boulder, she earned her Bachelors from Vanderbilt University where she also worked at the Innovation Center, supporting regional entrepreneurial ecosystem development and led the annual Mid-South Innovation Summit, bringing together investors, founders and industry partners.
 
-##### Contact Information
+**Contact Information:**
 * Email address: alexa.papanikolaou@colorado.edu
 * [Github Profile](https://github.com/alexapapanikolaou)
 * [LinkedIn](https://www.linkedin.com/in/alexa-papanikolaou-29765410b/)
 
-### Projects
+## **PROJECTS**
 
 ### My First Map Assignment 
 This is the example map of the Haskell Indian Nations University 
@@ -32,7 +32,7 @@ This is a picture of the Cuyahoga Valley National Park.
   </small>
 </p>
 
-## Temperature Data Project <br><br>
+## Temperature Data Project <br>
 [View the full rendered html notebook here.](portfolio_posts/06-nashville-notebook.html)<br>
 <br>
 
@@ -43,7 +43,6 @@ This is a picture of the Cuyahoga Valley National Park.
 **Nashville Temperature Trendline Plot** <br>
 <br>
 <p align="left">
-  <em>Nashville Temperature Trendline Plot</em><br>
   <img src="img/nashville_temperature_trend.jpeg" alt="Nashville Temperature Trendline Plot" width="500">
 </p>
 
@@ -51,20 +50,12 @@ The graphs above show the mean annual average temperature in Nashville, Tennesse
 <br>
 Across the available years, the trendline has a slope of approximately 0.10°C per year, which is about 1°C or 1.8°F per decade. This general warming trend is consistent with NOAA’s broader findings for Tennessee, which show that temperatures have increased by more than 2°F since the cooler period of the 1960s and that temperatures since 2010 have been near historically high levels in the state (Runkle, 2022). <br>
 <br>
-- Since 2000, Tennessee has received 33 major disaster declarations involving severe storms and flooding. "Extreme weather events that frequently occur in Tennessee include severe thunderstorms, flooding, tornadoes, droughts, heat and cold waves, and winter storms" (Runkle, 2022). <br>
-- For example, in January, 2026 Winter Storm Fern brought one of the region's worst power outages and led 5 storm-related deaths in Nashville and 25 deaths across the state (Turner, 2026).<br>
-- According to The Science Times, "this extreme winter weather demonstrates precisely what scientists have been predicting for decades: a warming planet creates more volatile conditions, including paradoxically intense winter storms" (Soliman, 2026). <br>
-<br>
+Since 2000, Tennessee has received 33 major disaster declarations involving severe storms and flooding. "Extreme weather events that frequently occur in Tennessee include severe thunderstorms, flooding, tornadoes, droughts, heat and cold waves, and winter storms" (Runkle, 2022). For example, in January, 2026 Winter Storm Fern brought one of the region's worst power outages and led 5 storm-related deaths in Nashville and 25 deaths across the state (Turner, 2026). According to The Science Times, "this extreme winter weather demonstrates precisely what scientists have been predicting for decades: a warming planet creates more volatile conditions, including paradoxically intense winter storms" (Soliman, 2026). <br>
+
 **Bibliography**
 <br>
-Runkle, J., K.E. Kunkel, D.R. Easterlng, L.E. Stevens, B.C. Stewart, R.
-      Frankson, L. Romolo, J. Neilsen-Gammon, T.A. Joyner, W. Tollefson,
-      (2022). Tennessee State Climate Summary 2022. NOAA Technical Report
-      NESDIS 150-TN. NOAA/NESDIS. https://statesummaries.ncics.org/chapter/tn/?utm_source
-<br>
-Soliman, R. (2026, January 26). Why Winter Storm Fern actually proves climate
-      change is Real—Not a hoax. Science Times. https://www.sciencetimes.com/articles/61201/20260126/why-winter-storm-fern-actually-provesclimate-change-realnot-hoax.htm
-<br>
-Turner, L., Wuot, P. G., & Marshall, A. (2026, February 20). Winter storm
-      week 2: Challenges linger and some school districts remain closed.
-      WPLN News.https://wpln.org/post/&storm-updates-ice-power-water-challenges-linger-after-a-week-as-deaths-climb-and-frustrations-rise/
+* Runkle, J., K.E. Kunkel, D.R. Easterling, L.E. Stevens, B.C. Stewart, R. Frankson, L. Romolo, J. Nielsen-Gammon, T.A. Joyner, W. Tollefson. (2022). Tennessee State Climate Summary 2022. NOAA Technical Report NESDIS 150-TN. NOAA/NESDIS. https://statesummaries.ncics.org/chapter/tn/
+
+* Soliman, R. (2026, January 26). Why Winter Storm Fern actually proves climate change is real—not a hoax. Science Times. https://www.sciencetimes.com/articles/61201/20260126/why-winter-storm-fern-actually-provesclimate-change-realnot-hoax.htm
+
+* Turner, L., Wuot, P. G., & Marshall, A. (2026, February 20). Winter storm week 2: Challenges linger and some school districts remain closed. WPLN News. https://wpln.org/post/storm-updates-ice-power-water-challenges-linger-after-a-week-as-deaths-climb-and-frustrations-rise/
