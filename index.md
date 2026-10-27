@@ -80,6 +80,6 @@ For this assignment I looked at the Calliope Hummingbird
 
 **Calliope Hummingbird Observations Interactive Plot** <br>
 <br>
-<embed type="text/html" src="img/calliope_migration_interactive_plot_carto.html" width="500" height="300">
+<embed type="text/html" src="img/calliope_migration_interactive_plot_carto.html" width="700" height="500">
 
 
