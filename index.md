@@ -59,3 +59,27 @@ Since 2000, Tennessee has received 33 major disaster declarations involving seve
 * Soliman, R. (2026, January 26). Why Winter Storm Fern actually proves climate change is real—not a hoax. Science Times. [https://www.sciencetimes.com/articles/61201/20260126/why-winter-storm-fern-actually-provesclimate-change-realnot-hoax.htm](https://www.sciencetimes.com/articles/61201/20260126/why-winter-storm-fern-actually-provesclimate-change-realnot-hoax.htm)
 
 * Turner, L., Wuot, P. G., & Marshall, A. (2026, February 20). Winter storm week 2: Challenges linger and some school districts remain closed. WPLN News. [https://wpln.org/post/storm-updates-ice-power-water-challenges-linger-after-a-week-as-deaths-climb-and-frustrations-rise/](https://wpln.org/post/storm-updates-ice-power-water-challenges-linger-after-a-week-as-deaths-climb-and-frustrations-rise/)
+
+
+## Migration Data Project <br>
+[View the full repository notebook here.](https://github.com/alexapapanikolaou/02-migration-fall-template)
+
+
+
+According to National Geographic, animal migration is a seasonal pattern of behavior in which animals relocate from one habitat to another and eventually return. Some of the primary reasons animals migrate include access to food, breeding sites, and more favorable conditions. As a new Colorado resident, I have recently witnessed Elk migrations and saw herds of Elk on the roads in Estes Park on the news! They are currently migrating from their higher elevation summer habitats to lower elevation for the winter.
+
+Since we will be working with bird migration data, it is noteworthy that while many animals migrate, birds “move farther, faster, and in greater numbers than any other animals” (Cornell Lab of Ornithology 2026). As mentioned before, migration allows them to take advantage of seasonal changes. For example, birds that migrate north during the spring can benefit from abundant insects for food, longer daylight hours, and favorable breeding conditions before returning south as resources become less available during the winter.
+
+As I was researching why birds migrate, I was suprised to learn that the drive for birds to migrate is at least partially genetic. Delmore et al. (2020) examined the genomes of European blackcaps, a migratory songbird species like the Veery Thrush, and identified genomic regions associated with migratory behavior, including both direction and distance. Gu, Dixon, and Zhan (2024) also explain that migration is a complex evolutionary adaptation influenced by both inherited traits and environmental conditions. I found this particularly interesting because it suggests that birds may be genetically predisposed to migrate, even though environmental factors can influence when and how they travel. It also makes me wonder how quickly birds will be able to adapt to changing environmental conditions if some aspects of their migration patterns are genetically programmed.
+
+At the same time, there is evidence that bird migration is especially sensitive to climate change as seasonal temperatures and weather patterns shift. A recent study examined how weather factors affect bird migration specifically in Qingdao, China, a city located along the East Asian–Australasian Flyway (EAAF), one of the world's major migratory bird routes (Qin et al. 2026). Using weather radar observations, researchers found that temperature, humidity, and wind conditions influenced the altitudes at which birds migrated. These findings demonstrate how closely migration behavior is connected to atmospheric conditions and how birds may adjust their flight patterns in response to their environment.
+
+For this assignment I looked at the Calliope Hummingbird
+- Scientific name: Selasphorus calliope
+
+
+**Calliope Hummingbird Observations Interactive Plot** <br>
+<br>
+<embed type="text/html" src="img/calliope_migration_carto_demo.html" width="500" height="300">
+
+
