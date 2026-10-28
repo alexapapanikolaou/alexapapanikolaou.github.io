@@ -62,9 +62,7 @@ Since 2000, Tennessee has received 33 major disaster declarations involving seve
 
 
 ## Migration Data Project <br>
-[View the full repository notebook here.](https://github.com/alexapapanikolaou/02-migration-fall-template)
-
-
+[View the full repository for this project here.](https://github.com/alexapapanikolaou/02-migration-fall-template)
 
 According to National Geographic, animal migration is a seasonal pattern of behavior in which animals relocate from one habitat to another and eventually return. Some of the primary reasons animals migrate include access to food, breeding sites, and more favorable conditions. As a new Colorado resident, I have recently witnessed Elk migrations and saw herds of Elk on the roads in Estes Park on the news! They are currently migrating from their higher elevation summer habitats to lower elevation for the winter.
 
