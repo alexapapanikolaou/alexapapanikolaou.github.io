@@ -15,7 +15,7 @@ This is my dog, Meli!
 
 ## **PROJECTS**
 
-### My First Map Assignment 
+## My First Map Assignment 
 This is the example map of the Haskell Indian Nations University 
 <embed type="text/html" src="img/haskell.html" width="600" height="600">
 
@@ -76,11 +76,9 @@ For this assignment I looked at the Calliope Hummingbird (scientific name: Selas
 
 I mapped GBIF observations from 2010 to 2026 for the Calliope Humming bird. I grouped observations from the same months across all years and grouped by ecoregion. I chose to exclude ecoregion- month combinations with only 1 observation before taking the mean the mean number of observations by ecoregion and by month. I then normalized the data by dividing the original pooled observation counts for each month and ecoregion by the average observation counts for each month and region. The interactive map that I produced is below and groups the normalized data by month and ecoregion. Darker colors represent ecoregion with higher relative observation counts and lighter colors representing ecoregion with lower relative observation counts.
 
-My map is somewhat consistent with typical Calliope Hummingbird migration patterns in the broader literature. According to the Cornell Lab of Ornithology, Calliope Hummingbirds travel approximately 5,000 miles annually between their breeding grounds in western North America and their wintering grounds in Mexico. They migrate north along the Pacific Coast in the spring, and return to the wintering grounds in Mexico via an inland route along the Rocky Mountains (Cornell Lab of Ornithology). Interestingly my map shows observations in Eastern United States ecoregions during wintering months, which is not captured in the summary from the Cornell Lab of Ornithology. 
+My map is somewhat consistent with typical Calliope Hummingbird migration patterns in the broader literature. According to the Cornell Lab of Ornithology, Calliope Hummingbirds travel approximately 5,000 miles annually between their breeding grounds in western North America and their wintering grounds in Mexico. They migrate north along the Pacific Coast in the spring, and return to the wintering grounds in Mexico via an inland route along the Rocky Mountains (Cornell Lab of Ornithology). 
 
-One study by Supp et al. (2015) examined the migration patterns of five North American hummingbird species, including the Calliope Hummingbird, using eBird observations collected between 2008 and 2013. The researchers analyzed daily observations to investigate migration routes, timing, and variation between years. They found that the beginning of spring migration generally varied less between years than arrival at wintering grounds. They also found that migration routes were relatively consistent across years, although geographic locations varied, particularly in longitude.
-
-My map uses a similar observational approach, but combines GBIF records from 2010 to 2026 into monthly distributions by ecoregion. Unlike Supp et al. (2015), who examined daily movements and differences between years, my analysis pools observations across years to visualize broader seasonal patterns.
+Interestingly my map shows observations in Eastern United States ecoregions during wintering months, which is not captured in the summary from the Cornell Lab of Ornithology. This may be explained by a study conducted by Supp et al. (2015) which examined how the migration patterns of five North American hummingbird species, including the Calliope Hummingbird, changed year by year using eBird observations from 2008 and 2013. They found Calliope Hummingbirds shifted their central path of migration as far as 320 miles east or west between years. With the help of ChatGPT, I explored this discrepancy further and found that the data used to create my map included 1,127 raw observations in the Southeast US conifer savannas ecoregion alone across the winter months of December, January, and February. This ecoregion includes parts of Louisiana, Mississippi, Alabama, Florida, Georgia, South Carolina, North Carolina, Tennessee, Kentucky, Arkansas, and Missouri. The code used to examine these observations can be found in [Notebook 06.](https://github.com/alexapapanikolaou/02-migration-fall-template/blob/main/notebooks/06-calliope-normalize%20.ipynb). These GBIF occurrence records do not necessarily represent individual birds, and the same bird could have been observed and reported multiple times. Additionally, higher observation counts may reflect greater birdwatching activity and reporting efforts in these regions rather than a larger population of Calliope Hummingbirds.
 
 
 **Calliope Hummingbird Observations Interactive Plot** <br>
@@ -89,16 +87,16 @@ My map uses a similar observational approach, but combines GBIF records from 201
 
 **Bibliography**
 
-Cornell Lab of Ornithology. (n.d.). Calliope Hummingbird. All About Birds.https://www.allaboutbirds.org/guide/Calliope_Hummingbird/overview?utm_source=chatgpt.com
+* Cornell Lab of Ornithology. (n.d.). Calliope Hummingbird. All About Birds.https://www.allaboutbirds.org/guide/Calliope_Hummingbird/overview?utm_source=chatgpt.com
 
-Cornell Lab of Ornithology. 2026. “The Basics of Bird Migration: How, Why, When, and Where.” All About Birds. May 13, 2026. https://www.allaboutbirds.org/news/the-basics-how-why-and-where-of-bird-migration/
+* Cornell Lab of Ornithology. 2026. “The Basics of Bird Migration: How, Why, When, and Where.” All About Birds. May 13, 2026. https://www.allaboutbirds.org/news/the-basics-how-why-and-where-of-bird-migration/
 
-Delmore, Kira E., et al. 2020. “The Evolutionary History and Genomics of European Blackcap Migration.” eLife 9: e54462. https://doi.org/10.7554/eLife.54462
+* Delmore, Kira E., et al. 2020. “The Evolutionary History and Genomics of European Blackcap Migration.” eLife 9: e54462. https://doi.org/10.7554/eLife.54462
 
-Gu, Z., A. Dixon, and X. Zhan. 2024. “Genetics and Evolution of Bird Migration.” Annual Review of Animal Biosciences 12: 21–43. https://doi.org/10.1146/annurev-animal-021122-092239
+* Gu, Z., A. Dixon, and X. Zhan. 2024. “Genetics and Evolution of Bird Migration.” Annual Review of Animal Biosciences 12: 21–43. https://doi.org/10.1146/annurev-animal-021122-092239
 
-Heckscher, C.M. 2018. “A Nearctic-Neotropical Migratory Songbird’s Nesting Phenology and Clutch Size Are Predictors of Accumulated Cyclone Energy.” *Scientific Reports* 8 (1): 9899. <https://doi.org/10.1038/s41598-018-28302-3>.
+* Heckscher, C.M. 2018. “A Nearctic-Neotropical Migratory Songbird’s Nesting Phenology and Clutch Size Are Predictors of Accumulated Cyclone Energy.” *Scientific Reports* 8 (1): 9899. <https://doi.org/10.1038/s41598-018-28302-3>.
 
-National Geographic Society. n.d. “Migration.” National Geographic Education. https://education.nationalgeographic.org/resource/migration/.
+* National Geographic Society. n.d. “Migration.” National Geographic Education. https://education.nationalgeographic.org/resource/migration/.
 
 Qin, H., H. Fu, Y. Yang, Y. Jiang, L. Wang, K. Zhang, C. Wang, X. Mo, D. Wu, F. Huang, and G. Mao. 2026. “A Study on Bird-Migration Patterns Based on Weather Radar and the Effect of Weather Factors on Migration Altitude: A Case Study of Qingdao, China.” Diversity 18 (5): 299. https://research.ebsco.com/c/3czfwv/search/details/qzvevz7gjr/details?ctx=yZbw4GmDTjE_K0El43zfM&facetFilter=sourceTypes%3AMTYwTU4%3D&limiters=FT1%3AY%2CDT1%3A2025-10-20%2F2026-10-20&pos=3&q=climate+change+effects+migration+patterns&searchMode=all
