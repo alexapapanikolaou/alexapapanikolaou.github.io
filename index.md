@@ -104,4 +104,6 @@ With the help of ChatGPT, I explored this discrepancy further and found that the
 
 * Miller, J. (2015, March 25). Annual changes in hummingbird migration revealed by birders’ sightings. Cornell Lab of Ornithology, All About Birds. https://www.allaboutbirds.org/news/annual-changes-in-hummingbird-migration-revealed-by-birders-sightings/
 
+* Supp, S. R., La Sorte, F. A., Cormier, T. A., Lim, M. C. W., Powers, D. R., Wethington, S. M., Goetz, S., & Graham, C. H. (2015). Citizen-science data provides new insight into annual and seasonal variation in migration patterns. Ecosphere, 6(1), Article 15. https://doi.org/10.1890/ES14-00290.1
+
 * Qin, H., H. Fu, Y. Yang, Y. Jiang, L. Wang, K. Zhang, C. Wang, X. Mo, D. Wu, F. Huang, and G. Mao. 2026. “A Study on Bird-Migration Patterns Based on Weather Radar and the Effect of Weather Factors on Migration Altitude: A Case Study of Qingdao, China.” Diversity 18 (5): 299. https://research.ebsco.com/c/3czfwv/search/details/qzvevz7gjr/details?ctx=yZbw4GmDTjE_K0El43zfM&facetFilter=sourceTypes%3AMTYwTU4%3D&limiters=FT1%3AY%2CDT1%3A2025-10-20%2F2026-10-20&pos=3&q=climate+change+effects+migration+patterns&searchMode=all
